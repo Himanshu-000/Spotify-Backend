@@ -172,4 +172,4 @@ Through this project, I learned:
 * Cloud File Storage with ImageKit
 * File Upload Handling
 * Git & GitHub Workflow
-* Production-Oriented Backend Development
+* Production-Oriented Backend Development.
